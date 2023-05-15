@@ -118,4 +118,6 @@
         echo $mystere[$index];
     }
     
+    echo "<p>Le mot mystere est fIghT cLuB, le pseudo de la personne qui a modifié la page wikipédia en anglais<br/> 
+    le 30 Décembre 2022 à 22h50 est Jean-de-Nivelle</p>";
 
